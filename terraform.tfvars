@@ -1,0 +1,7 @@
+region = "us-east-1"
+profile = "default"
+cidr_block = "10.1.0.0/16"
+subnet1_cidr_block = "10.1.1.0/24"
+subnet2_cidr_block = "10.1.2.0/24"
+vpc_name = "newVPC"
+IGW_name = "newIGW"
